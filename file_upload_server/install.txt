@@ -1,0 +1,14 @@
+npm install express
+npm install http
+npm install multer
+npm install path
+
+
+
+node server
+
+
+
+Ref:
+http://angularcode.com/simple-file-upload-example-using-angularjs/
+https://github.com/itswadesh/simple-file-uploader
